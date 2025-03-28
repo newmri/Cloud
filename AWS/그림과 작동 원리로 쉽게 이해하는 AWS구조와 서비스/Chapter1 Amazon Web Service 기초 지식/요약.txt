@@ -1,0 +1,25 @@
+Amazon Web Services(AWS)란 Amazon.com에서 운영하는 클라우드
+
+참고 자료
+AWS 고객 성공 사례: https://aws.amazon.com/ko/solutions/case-studies/
+AWSKRUG(AWS한국사용자모임): https://www.awskr.org/
+
+온프레미스: 사용자가 관리하는 시설 내에 서버 등의 기기를 설치해 운용하는 환경 시설을 일반적으로 데이터 센터라고 함
+클라우드: 서비스 제공자가 서버 등의 기기를 준비, 이용자는 이용료를 내고 사용
+가상화: 1개의 물리 서버 내에서 여러개의 가상 서버 구축
+서버리스: 사용자가 필요 할때 서버를 생성 이용이 끝나면 서버는 삭제
+프로비저닝: 서버가 계속 실행중
+
+SaaS(Software as a Service): 웹 메일, 웹 스토리지
+PaaS(Platform as a Service): DB, 컨테이너 환경
+IaaS(Infrastructure as a Service): 가상 서버
+
+설계의 모범이 되는 프레임워크: 운영 우수성, 보안, 아정성, 성능 효율성, 비용 최적화, 지속 가능성
+https://wa.aws.amazon.com/index.ko.html
+https://d1.awsstatic.com/whitepapers/ko_KR/architecture/AWS_Well-Architected_Framework.pdf
+
+
+AWS 설명서: https://docs.aws.amazon.com/ko_kr/
+AWS 도입 사례: https://aws.amazon.com/ko/solutions/case-studies/
+AWS 시작하기: https://aws.amazon.com/ko/getting-started/?ref=docs_gateway/index.html 
+AWS 핸즈온: https://aws.amazon.com/ko/getting-started/hands-on/
