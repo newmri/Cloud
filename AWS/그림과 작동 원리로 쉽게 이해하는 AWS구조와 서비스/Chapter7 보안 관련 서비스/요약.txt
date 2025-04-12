@@ -1,0 +1,4 @@
+IAM 서비스로 인증 인가 관리 가능
+기본적으로 AWS 사용 현황은 CloudTrail에 기록됨
+AWS Config는 자원에 대한 구성 정보와 변경 이력을 남기는 서비스
+Amazon GuardDuty는 AWS 계정 내의 모든 활동을 감시하는 위협 탐지 서비스
